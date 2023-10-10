@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "580510387527",
+    "project_id": "miloudi-oualid-projet",
+    "storage_bucket": "miloudi-oualid-projet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580510387527:android:ffc23e38280006d26e9062",
+        "android_client_info": {
+          "package_name": "com.example.miloudi_oualid_projet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580510387527-282vkrd6glduudpnm2oe6mut787av8ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdXj4l_Ntuz0HvanG5DKDnWklY0jhpAak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580510387527-282vkrd6glduudpnm2oe6mut787av8ep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

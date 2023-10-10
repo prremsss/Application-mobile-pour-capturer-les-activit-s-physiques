@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ActivityFragment">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical"
+        android:background="#77000000">
+
+
+
+        <TextView
+            android:padding="5dp"
+            android:id="@+id/txt_activity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:textAllCaps="true"
+            android:textColor="@color/white"
+            android:textSize="14dp"
+            android:textStyle="bold"
+            android:text="Activité : Aucune activité n'est détectée"/>
+        <TextView
+            android:padding="5dp"
+            android:id="@+id/distance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:textAllCaps="true"
+                android:textColor="@color/white"
+            android:textSize="14dp"
+            android:textStyle="bold"
+            android:text="Distance : 0.0 KM"
+            />
+        <TextView
+            android:padding="5dp"
+            android:id="@+id/speed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:textAllCaps="true"
+            android:textColor="@color/white"
+            android:textSize="14dp"
+            android:textStyle="bold"
+            android:text="Vitesse : 0.0 m/s --- 0.0km/h"
+            />
+        <TextView
+            android:padding="5dp"
+            android:id="@+id/avgspeed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:textAllCaps="true"
+            android:textColor="@color/white"
+            android:textSize="14dp"
+            android:textStyle="bold"
+            android:text="Vitesse moyenne : 0.0 m/s --- 0.0km/h"
+            />
+
+    </LinearLayout>
+
+
+
+
+
+</RelativeLayout>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LEGION/Desktop/MASTER/S2/Miloudi_Oualid_Projet/app/src/main/res/drawable-hdpi/ic_driving.xml" value="0.2415" />
+        <entry key="..\:/Users/LEGION/Desktop/MASTER/S2/Miloudi_Oualid_Projet/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.298" />
+        <entry key="..\:/Users/LEGION/Desktop/MASTER/S2/Miloudi_Oualid_Projet/app/src/main/res/drawable/ic_baseline_phone_android_24.xml" value="0.2105" />
+        <entry key="..\:/Users/LEGION/Desktop/MASTER/S2/Miloudi_Oualid_Projet/app/src/main/res/drawable/ic_email.xml" value="0.1" />
+        <entry key="..\:/Users/LEGION/Desktop/MASTER/S2/Miloudi_Oualid_Projet/app/src/main/res/drawable/ic_gender.xml" value="0.2105" />
+        <entry key="..\:/Users/LEGION/Desktop/MASTER/S2/Miloudi_Oualid_Projet/app/src/main/res/drawable/ic_gender_symbols_side_by_side_solid.xml" value="0.2105" />
+        <entry key="..\:/Users/LEGION/Desktop/MASTER/S2/Miloudi_Oualid_Projet/app/src/main/res/drawable/ic_launcher_background.xml" value="0.298" />
+        <entry key="..\:/Users/LEGION/Desktop/MASTER/S2/Miloudi_Oualid_Projet/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/LEGION/Desktop/MASTER/S2/Miloudi_Oualid_Projet/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/LEGION/Desktop/MASTER/S2/Miloudi_Oualid_Projet/app/src/main/res/layout/activity_map.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/LEGION/Desktop/MASTER/S2/Miloudi_Oualid_Projet/app/src/main/res/layout/activity_profil.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/LEGION/Desktop/MASTER/S2/Miloudi_Oualid_Projet/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/LEGION/Desktop/MASTER/S2/Miloudi_Oualid_Projet/app/src/main/res/layout/cards.xml" value="0.31283422459893045" />
+        <entry key="..\:/Users/LEGION/Desktop/MASTER/S2/Miloudi_Oualid_Projet/app/src/main/res/layout/content_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/LEGION/Desktop/MASTER/S2/Miloudi_Oualid_Projet/app/src/main/res/layout/email.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/LEGION/Desktop/MASTER/S2/Miloudi_Oualid_Projet/app/src/main/res/layout/filiere.xml" value="0.7921511627906976" />
+        <entry key="..\:/Users/LEGION/Desktop/MASTER/S2/Miloudi_Oualid_Projet/app/src/main/res/layout/fragment_activity.xml" value="0.2508591065292096" />
+        <entry key="..\:/Users/LEGION/Desktop/MASTER/S2/Miloudi_Oualid_Projet/app/src/main/res/layout/fragment_map.xml" value="0.14" />
+        <entry key="..\:/Users/LEGION/Desktop/MASTER/S2/Miloudi_Oualid_Projet/app/src/main/res/layout/fragment_profil.xml" value="0.25" />
+        <entry key="..\:/Users/LEGION/Desktop/MASTER/S2/Miloudi_Oualid_Projet/app/src/main/res/layout/gender.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/LEGION/Desktop/MASTER/S2/Miloudi_Oualid_Projet/app/src/main/res/layout/phone.xml" value="0.35643115942028986" />
+        <entry key="..\:/Users/LEGION/Desktop/MASTER/S2/Miloudi_Oualid_Projet/app/src/main/res/layout/profile.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/LEGION/Desktop/MASTER/S2/Miloudi_Oualid_Projet/app/src/main/res/menu/menu_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/LEGION/Desktop/MASTER/S2/Miloudi_Oualid_Projet/app/src/main/res/menu/menu_nav.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

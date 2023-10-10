@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Miloudi_Oualid_Projet</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="activity_on_bicycle" > Sur bicyclete</string>
+    <string name="activity_unknown" > inconnue</string>
+    <string name="activity_in_vehicle"> Dans la voiture</string>
+    <string name="activity_on_foot" > Sur pieds</string>
+    <string name="activity_running" > Courir</string>
+    <string name="activity_still"> Aucune activité n\'est détectée</string>
+    <string name="activity_tilting" > Tilting</string>
+    <string name="activity_walking" > Marcher</string>
+</resources>
